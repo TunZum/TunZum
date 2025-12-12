@@ -29,18 +29,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📈 Моя статистика GitHub
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-## 🔥 Мои популярные проекты
-
-### [Название проекта 1](https://github.com/yourusername/project1)
-Краткое описание проекта. Что он делает и для чего предназначен.
-
-### [Название проекта 2](https://github.com/yourusername/project2)
-Еще один интересный проект с описанием.
-
